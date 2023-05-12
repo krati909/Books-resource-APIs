@@ -6,9 +6,9 @@
 ##### Update book
 ##### Delete book
 
-##### Used MYSQLdatabase.
-##### Added User login and signin for Authorization.
-##### Used JsonWebToken for Authentication.
+##### => Used MYSQLdatabase.
+##### => Added User login and signin for Authorization.
+##### => Used JsonWebToken for Authentication.
 
 ## To Run:
 ##### Change the Database configration.
